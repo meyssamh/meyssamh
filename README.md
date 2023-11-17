@@ -12,7 +12,7 @@
 
 - 😉 I’m currently studying **Software Programming** but i can create interactive and user-friendly websites.
 
-- 👷 I’m currently working on [Classroom front-end](www.github.com/meyssamh/Classroom_frontend) and [Classroom back-end](www.github.com/meyssamh/Classroom_backend).
+- 👷 I’m currently working on [Classroom front-end](https://www.github.com/meyssamh/Classroom_frontend) and [Classroom back-end](https://www.github.com/meyssamh/Classroom_backend).
 
 - 👉 You can ask me about **React, JavaScript, HTML, CSS and more!**
 
