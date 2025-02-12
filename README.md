@@ -12,9 +12,9 @@
 
 - 😉 I’m currently studying **Software Programming** but i can create interactive and user-friendly websites.
 
-- 👷 I’m currently working on [Classroom front-end](https://www.github.com/meyssamh/Classroom_frontend) and [Classroom back-end](https://www.github.com/meyssamh/Classroom_backend).
+- 👷 I’m currently working on [Classroom_Spring](https://www.github.com/meyssamh/Classroom_Spring).
 
-- 👉 You can ask me about **React, JavaScript, HTML, CSS and more!**
+- 👉 You can ask me about **React, JavaScript, Java, HTML, CSS and more!**
 
 - 📧 To contact me send an email to **seyedmeyssam.hosseinifard@gmail.com.**
 
@@ -27,6 +27,12 @@
     </a>
  	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+ 	</a>
+ 	<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ 	</a>
+ 	<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  		<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
  	</a>
  	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
