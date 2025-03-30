@@ -10,7 +10,7 @@
 
 
 
-- 😉 I’m currently studying **Software Programming** but i can create interactive and user-friendly websites.
+- 😉 I’m currently studying **Information Technology** and i can create interactive and user-friendly websites.
 
 - 👷 I’m currently working on [Classroom_Spring_REST](https://www.github.com/meyssamh/Classroom_Spring_REST).
 
