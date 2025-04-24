@@ -12,8 +12,6 @@
 
 - 😉 I’m currently studying **Information Technology** and i can create interactive and user-friendly websites.
 
-- 👷 I’m currently working on **Java projects**.
-
 - 👉 You can ask me about **React, JavaScript, Java, HTML, CSS and more!**
 
 - 📧 To contact me send an email to **seyedmeyssam.hosseinifard@gmail.com.**
